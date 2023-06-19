@@ -9,7 +9,7 @@ Task is to create a Python script that analyzes the records to calculate each of
 * The greatest decrease in profits (date and amount) over the entire period
 
 ### Bellow is the analysis results: 
-![Alt text]( "PyBankAnalysisResult")
+![Alt text]( //Images/resultsScreen/pyBank.png"PyBankAnalysisResult")
 
 ## PyPoll
 Task is to help a small, rural town modernize its vote-counting process and Python script that analyzes the votes and calculates each of the following values:
@@ -21,7 +21,7 @@ Task is to help a small, rural town modernize its vote-counting process and Pyth
 * The winner of the election based on popular vote
 
 ### Bellow is the analysis results:
-![Alt text]("PyPolAnalysisResult")
+![Alt text](//Images/resultsScreen/pyPoll.png"PyPolAnalysisResult")
 
 
 
