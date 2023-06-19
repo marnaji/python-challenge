@@ -8,12 +8,10 @@ csvpath = os.path.join('.' , 'Resources','election_data.csv')
 #read csv
 with open(csvpath , encoding='UTF-8') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=',')
-    #print(csvreader)
-    
+        
     #create header
     csvheader = next(csvreader)
-    #print(f"CSV header:{csvheader}")
-
+    
     #Variable holds values
     totalVote = 0
     candidateDict = {}

@@ -11,11 +11,9 @@ with open(csvpath, encoding='UTF-8') as csvfile:
     
     #CSV reader specifies delimiter and variable that holds contents
     csvreader = csv.reader(csvfile, delimiter=",")
-    # print(csvreader)
     
     #read the header row first
     header = next(csvreader)
-    # print(f"csv header: {header}")
     
     #Defining variables
     totalMonth = 0
