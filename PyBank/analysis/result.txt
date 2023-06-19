@@ -1,0 +1,7 @@
+Financial Analysis
+------------------------
+totalMonth : 86
+totalAmout : 22564198
+Changes : -8311.105882352942
+gretest increase in profit : Aug-16 ($1862002)
+gretest decrease in profit : Feb-14 ($-1825558)
